@@ -10,7 +10,7 @@ Pseudocode Likely look like
 
 declare variableTEN = a + b
 declare variableFOURTY = c - d
-declare variableTHIRTYNINE = 
+declare variableTHIRTYNINE = e * f
 
 output ($variableTEN + " - " + $variableFOURTY + " - " + $variableTHIRTYNINE)
 
